@@ -61,42 +61,79 @@
 \* Tokyo 2020 was held in 2021 due to the COVID-19 pandemic.
 
 ---
+# 🏅 Army GD 2025 – Complete Sports Revision (Direct Answers)
 
-## 📋 Other Important Sports Topics for Army GD 2025
-
-1. **Famous Sports Personalities & Achievements**  
-   - Medal winners from Olympics, Commonwealth Games, Asian Games  
-   - Indian sports stars & their disciplines  
-   - Record breakers (fastest runner, highest scorer, etc.)
-
-2. **Sports Awards in India**  
-   - Rajiv Gandhi Khel Ratna Award (now Major Dhyan Chand Khel Ratna)  
-   - Arjuna Award  
-   - Dronacharya Award  
-   - Dhyan Chand Award  
-
-3. **Sports Terminology & Rules**  
-   - Basic rules and formats of cricket, football, hockey, kabaddi, badminton, etc.  
-   - Scoring methods, playing times, and positions  
-
-4. **Major Sports Events & Leagues**  
-   - Indian Premier League (IPL)  
-   - Pro Kabaddi League (PKL)  
-   - Hockey India League (HIL)  
-   - FIFA World Cup  
-   - ICC Cricket World Cup  
-
-5. **Current Sports Affairs**  
-   - Recent medal tallies and sports news  
-   - New sports added to Olympics or national events  
-   - Important sports policy initiatives by the government  
-
-6. **Sports Infrastructure & Organisations**  
-   - Sports Authority of India (SAI)  
-   - National Sports Federations  
-   - Olympic Associations  
-
-7. **Sports Science and Fitness**  
-   - Basic understanding of fitness regimes, nutrition, and sports medicine (useful for physical training awareness)  
+Get ready for Army GD with this fully updated sports guide including important sports personalities, awards, rules, players per team, and current affairs.
 
 ---
+
+## 🥇 Famous Indian Sports Personalities
+
+| Name                | Sport           | Major Achievement                           |
+|---------------------|------------------|----------------------------------------------|
+| Neeraj Chopra       | Javelin Throw    | Olympic Gold (2020), World Champ (2023)      |
+| Mirabai Chanu       | Weightlifting    | Olympic Silver (2020), CWG Gold (2022)       |
+| PV Sindhu           | Badminton        | Olympic Silver (2016), Bronze (2020)         |
+| Ravi Dahiya         | Wrestling        | Olympic Silver (2020)                        |
+| Lovlina Borgohain   | Boxing           | Olympic Bronze (2020), World Champ (2023)    |
+| Nikhat Zareen       | Boxing           | World Champion (2022, 2023)                  |
+| R Praggnanandhaa    | Chess            | World Cup Runner-up (2023)                   |
+| Virat Kohli         | Cricket          | 50 ODI Centuries                             |
+| Sunil Chhetri       | Football         | 3rd Highest Active International Goal Scorer |
+| Sachin Tendulkar    | Cricket          | 100 International Centuries                  |
+
+---
+
+## 🏆 Sports Awards in India
+
+| Award Name                    | Given For                            | Example Winner       |
+|-------------------------------|----------------------------------------|----------------------|
+| Khel Ratna (Dhyan Chand)      | Best Athlete of the Year              | Neeraj Chopra (2021) |
+| Arjuna Award                  | Consistent Sports Performance         | Anju Bobby George    |
+| Dronacharya Award             | Best Coach in Sports                  | Pullela Gopichand    |
+| Dhyan Chand Lifetime Award    | Lifetime Sports Achievement           | Ashok Kumar (Hockey) |
+
+---
+
+## 📘 Sports Rules, Terms & Team Size
+
+| Sport     | No. of Players | Scoring Format            | Common Terms               |
+|-----------|----------------|---------------------------|----------------------------|
+| **Cricket**   | 11             | Runs & wickets             | LBW, Yorker, Googly        |
+| **Football**  | 11             | 1 Goal = 1 Point           | Offside, Penalty Kick      |
+| **Hockey**    | 11             | 1 Goal = 1 Point           | Dribble, Push, Flick       |
+| **Kabaddi**   | 7              | 1 Touch/Bonus = 1 Point    | Raid, All-out, Bonus Line  |
+| **Volleyball**| 6              | 25 Points per set (3 sets) | Serve, Spike, Block         |
+| **Basketball**| 5              | 2, 3, 1 Point Baskets       | Dunk, Rebound, Foul         |
+| **Badminton** | 1 (Singles) / 2 (Doubles) | 21 Points per game       | Smash, Drop, Deuce         |
+| **Tennis**    | 1 (Singles) / 2 (Doubles) | 15-30-40-Game Sets        | Ace, Break, Fault           |
+| **Table Tennis** | 1 / 2      | 11 Points per game         | Topspin, Rally, Serve       |
+
+---
+
+## 🏟️ Major Sports Leagues & Events
+
+| League / Tournament         | Latest Winner / Host (as of 2025)      |
+|-----------------------------|-----------------------------------------|
+| IPL 2025                    | *To be Updated*                         |
+| Pro Kabaddi 2024            | Jaipur Pink Panthers                    |
+| FIFA World Cup 2022         | Argentina (Messi-led)                   |
+| ICC Cricket World Cup 2023  | Australia                               |
+| Asian Games 2023            | India – Over 100 Medals (Historic)      |
+| Commonwealth Games 2022     | India – 61 Medals, 4th Place            |
+
+---
+
+## 📰 Current Sports Affairs (2023–2025)
+
+- 🥇 **India won 100+ medals** for the first time in **Asian Games 2023**.
+- 🥊 **Nikhat Zareen** won **World Boxing Titles** in 2022 & 2023.
+- 🏸 **India won Thomas Cup 2022** (Men’s Badminton World Cup).
+- 🧠 **R Praggnanandhaa** was runner-up in **FIDE Chess World Cup 2023**.
+- 🎖️ **Neeraj Chopra** became **World Champion** in Javelin Throw.
+
+---
+
+## 🏛️ Sports Organisations in India
+
+| Organisation              | Purpose /
